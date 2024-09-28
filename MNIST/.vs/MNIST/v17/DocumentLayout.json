@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\pr Prog (1s)\\hausaufgaebn\\MNIST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B00050C4-F947-4D94-8F22-FD099D4ACBFE}|MNIST\\MNIST.vcxproj|C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\pr Prog (1s)\\hausaufgaebn\\MNIST\\MNIST\\MNIST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B00050C4-F947-4D94-8F22-FD099D4ACBFE}|MNIST\\MNIST.vcxproj|solutionrelative:MNIST\\MNIST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00050C4-F947-4D94-8F22-FD099D4ACBFE}|MNIST\\MNIST.vcxproj|C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\pr Prog (1s)\\hausaufgaebn\\MNIST\\MNIST\\Network.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B00050C4-F947-4D94-8F22-FD099D4ACBFE}|MNIST\\MNIST.vcxproj|solutionrelative:MNIST\\Network.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00050C4-F947-4D94-8F22-FD099D4ACBFE}|MNIST\\MNIST.vcxproj|C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\pr Prog (1s)\\hausaufgaebn\\MNIST\\MNIST\\Layer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B00050C4-F947-4D94-8F22-FD099D4ACBFE}|MNIST\\MNIST.vcxproj|solutionrelative:MNIST\\Layer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00050C4-F947-4D94-8F22-FD099D4ACBFE}|MNIST\\MNIST.vcxproj|C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\pr Prog (1s)\\hausaufgaebn\\MNIST\\MNIST\\Layer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B00050C4-F947-4D94-8F22-FD099D4ACBFE}|MNIST\\MNIST.vcxproj|solutionrelative:MNIST\\Layer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00050C4-F947-4D94-8F22-FD099D4ACBFE}|MNIST\\MNIST.vcxproj|C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\pr Prog (1s)\\hausaufgaebn\\MNIST\\MNIST\\Network.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B00050C4-F947-4D94-8F22-FD099D4ACBFE}|MNIST\\MNIST.vcxproj|solutionrelative:MNIST\\Network.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00050C4-F947-4D94-8F22-FD099D4ACBFE}|MNIST\\MNIST.vcxproj|C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\pr Prog (1s)\\hausaufgaebn\\MNIST\\MNIST\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B00050C4-F947-4D94-8F22-FD099D4ACBFE}|MNIST\\MNIST.vcxproj|solutionrelative:MNIST\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "resource.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\pr Prog (1s)\\hausaufgaebn\\MNIST\\MNIST\\resource.h",
+              "RelativeDocumentMoniker": "MNIST\\resource.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\pr Prog (1s)\\hausaufgaebn\\MNIST\\MNIST\\resource.h",
+              "RelativeToolTip": "MNIST\\resource.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-10-05T10:46:05.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Network.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\pr Prog (1s)\\hausaufgaebn\\MNIST\\MNIST\\Network.h",
+              "RelativeDocumentMoniker": "MNIST\\Network.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\pr Prog (1s)\\hausaufgaebn\\MNIST\\MNIST\\Network.h",
+              "RelativeToolTip": "MNIST\\Network.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-10-05T10:46:05.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Layer.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\pr Prog (1s)\\hausaufgaebn\\MNIST\\MNIST\\Layer.h",
+              "RelativeDocumentMoniker": "MNIST\\Layer.h",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\pr Prog (1s)\\hausaufgaebn\\MNIST\\MNIST\\Layer.h",
+              "RelativeToolTip": "MNIST\\Layer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-10-05T10:46:05.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Layer.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\pr Prog (1s)\\hausaufgaebn\\MNIST\\MNIST\\Layer.cpp",
+              "RelativeDocumentMoniker": "MNIST\\Layer.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\pr Prog (1s)\\hausaufgaebn\\MNIST\\MNIST\\Layer.cpp",
+              "RelativeToolTip": "MNIST\\Layer.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-10-05T10:46:05.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Network.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\pr Prog (1s)\\hausaufgaebn\\MNIST\\MNIST\\Network.cpp",
+              "RelativeDocumentMoniker": "MNIST\\Network.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\pr Prog (1s)\\hausaufgaebn\\MNIST\\MNIST\\Network.cpp",
+              "RelativeToolTip": "MNIST\\Network.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-10-05T10:46:05.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MNIST.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\pr Prog (1s)\\hausaufgaebn\\MNIST\\MNIST\\MNIST.cpp",
+              "RelativeDocumentMoniker": "MNIST\\MNIST.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UNI\\\u0418\u041A\u0411\u041E\\pr Prog (1s)\\hausaufgaebn\\MNIST\\MNIST\\MNIST.cpp",
+              "RelativeToolTip": "MNIST\\MNIST.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-10-05T10:46:05.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

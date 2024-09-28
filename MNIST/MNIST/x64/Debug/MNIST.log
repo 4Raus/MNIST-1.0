@@ -1,0 +1,6 @@
+﻿  Layer.cpp
+  MNIST.cpp
+  Network.cpp
+C:\Users\ASUS\Desktop\UNI\ИКБО\pr Prog (1s)\hausaufgaebn\MNIST\MNIST\Network.cpp(62,4): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  MNIST.vcxproj -> C:\Users\ASUS\Desktop\UNI\ИКБО\pr Prog (1s)\hausaufgaebn\MNIST\x64\Debug\MNIST.exe
